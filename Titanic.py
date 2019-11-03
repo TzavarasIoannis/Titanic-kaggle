@@ -108,7 +108,7 @@ print( dataset_test['Sex1'].head(5))
 #print('embarked test set', dataset_test['Embarked1'].head(5))
 
 '''
-before drop PassengerID, we create an array with ID's for knowing who passenger live/die 
+before drop PassengerID, we create an array with ID's for knowing who passenger survived
 '''
 #create PassengerID table 
 PassengerID =np.array(dataset_test['PassengerId1'])
