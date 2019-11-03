@@ -28,7 +28,7 @@ PassengerId,Pclass,Name,Sex,Age,SibSp,Parch,Ticket,Fare,Cabin,Embarked
 918,1,"Ostby, Miss. Helene Ragnhild",female,22,0,1,113509,61.9792,B36,C
 919,3,"Daher, Mr. Shedid",male,22.5,0,0,2698,7.225,,C
 920,1,"Brady, Mr. John Bertram",male,41,0,0,113054,30.5,A21,S
-921,3,"Samaan, Mr. Elias",male,,2,0,2662,21.6792,,C
+921,3,"Samaan, Mr. Elias",male,,2,0,2662,21.6792,,C 
 922,2,"Louch, Mr. Charles Alexander",male,50,1,0,SC/AH 3085,26,,S
 923,2,"Jefferys, Mr. Clifford Thomas",male,24,2,0,C.A. 31029,31.5,,S
 924,3,"Dean, Mrs. Bertram (Eva Georgetta Light)",female,33,1,2,C.A. 2315,20.575,,S
